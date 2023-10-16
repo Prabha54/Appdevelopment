@@ -1,0 +1,28 @@
+/* Styling for the FAQ container */
+.faq-container {
+    margin-top: 20px;
+  }
+  
+  /* Styling for each FAQ item */
+  .faq-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: rgb(112, 161, 226);
+  }
+  
+  /* Styling for the FAQ question */
+  .faq-question {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  /* Styling for the FAQ answer */
+  .faq-answer {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+  }
+  

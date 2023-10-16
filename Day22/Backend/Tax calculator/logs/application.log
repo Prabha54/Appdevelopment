@@ -1,0 +1,38 @@
+2023-10-16T00:10:29.741+05:30 DEBUG 7100 --- [http-nio-8080-exec-9] o.s.security.web.FilterChainProxy        : Securing OPTIONS /auth/login
+2023-10-16T00:10:29.795+05:30 DEBUG 7100 --- [http-nio-8080-exec-10] o.s.security.web.FilterChainProxy        : Securing POST /auth/login
+2023-10-16T00:10:29.800+05:30 DEBUG 7100 --- [http-nio-8080-exec-10] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to anonymous SecurityContext
+2023-10-16T00:10:29.806+05:30 DEBUG 7100 --- [http-nio-8080-exec-10] o.s.security.web.FilterChainProxy        : Secured POST /auth/login
+2023-10-16T00:10:30.062+05:30 DEBUG 7100 --- [http-nio-8080-exec-10] o.s.s.a.dao.DaoAuthenticationProvider    : Authenticated user
+2023-10-16T00:53:40.176+05:30 DEBUG 7100 --- [http-nio-8080-exec-2] o.s.security.web.FilterChainProxy        : Securing OPTIONS /auth/login
+2023-10-16T00:53:40.197+05:30 DEBUG 7100 --- [http-nio-8080-exec-3] o.s.security.web.FilterChainProxy        : Securing POST /auth/login
+2023-10-16T00:53:40.200+05:30 DEBUG 7100 --- [http-nio-8080-exec-3] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to anonymous SecurityContext
+2023-10-16T00:53:40.204+05:30 DEBUG 7100 --- [http-nio-8080-exec-3] o.s.security.web.FilterChainProxy        : Secured POST /auth/login
+2023-10-16T00:53:40.458+05:30 DEBUG 7100 --- [http-nio-8080-exec-3] o.s.s.a.dao.DaoAuthenticationProvider    : Authenticated user
+2023-10-16T00:54:21.746+05:30 DEBUG 7100 --- [http-nio-8080-exec-4] o.s.security.web.FilterChainProxy        : Securing OPTIONS /auth/login
+2023-10-16T00:54:21.771+05:30 DEBUG 7100 --- [http-nio-8080-exec-5] o.s.security.web.FilterChainProxy        : Securing POST /auth/login
+2023-10-16T00:54:21.772+05:30 DEBUG 7100 --- [http-nio-8080-exec-5] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to anonymous SecurityContext
+2023-10-16T00:54:21.774+05:30 DEBUG 7100 --- [http-nio-8080-exec-5] o.s.security.web.FilterChainProxy        : Secured POST /auth/login
+2023-10-16T00:54:21.949+05:30 DEBUG 7100 --- [http-nio-8080-exec-5] o.s.s.a.dao.DaoAuthenticationProvider    : Authenticated user
+2023-10-16T03:56:34.510+05:30  WARN 7100 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h29s78ms872µs500ns).
+2023-10-16T09:17:50.760+05:30  WARN 7100 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h21m22s877ms102µs800ns).
+2023-10-16T10:23:33.417+05:30 DEBUG 7100 --- [http-nio-8080-exec-7] o.s.security.web.FilterChainProxy        : Securing OPTIONS /auth/login
+2023-10-16T10:23:33.589+05:30 DEBUG 7100 --- [http-nio-8080-exec-8] o.s.security.web.FilterChainProxy        : Securing POST /auth/login
+2023-10-16T10:23:33.602+05:30 DEBUG 7100 --- [http-nio-8080-exec-8] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to anonymous SecurityContext
+2023-10-16T10:23:33.615+05:30 DEBUG 7100 --- [http-nio-8080-exec-8] o.s.security.web.FilterChainProxy        : Secured POST /auth/login
+2023-10-16T10:23:34.103+05:30 DEBUG 7100 --- [http-nio-8080-exec-8] o.s.s.a.dao.DaoAuthenticationProvider    : Authenticated user
+2023-10-16T10:25:23.698+05:30 DEBUG 7100 --- [http-nio-8080-exec-10] o.s.security.web.FilterChainProxy        : Securing OPTIONS /auth/postproduct
+2023-10-16T10:25:23.720+05:30 DEBUG 7100 --- [http-nio-8080-exec-1] o.s.security.web.FilterChainProxy        : Securing POST /auth/postproduct
+2023-10-16T10:25:23.726+05:30 DEBUG 7100 --- [http-nio-8080-exec-1] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to anonymous SecurityContext
+2023-10-16T10:25:23.732+05:30 DEBUG 7100 --- [http-nio-8080-exec-1] o.s.security.web.FilterChainProxy        : Secured POST /auth/postproduct
+2023-10-16T10:25:27.455+05:30 DEBUG 7100 --- [http-nio-8080-exec-2] o.s.security.web.FilterChainProxy        : Securing POST /auth/postproduct
+2023-10-16T10:25:27.459+05:30 DEBUG 7100 --- [http-nio-8080-exec-2] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to anonymous SecurityContext
+2023-10-16T10:25:27.461+05:30 DEBUG 7100 --- [http-nio-8080-exec-2] o.s.security.web.FilterChainProxy        : Secured POST /auth/postproduct
+2023-10-16T10:25:33.357+05:30 DEBUG 7100 --- [http-nio-8080-exec-3] o.s.security.web.FilterChainProxy        : Securing OPTIONS /auth/postproduct
+2023-10-16T10:25:33.372+05:30 DEBUG 7100 --- [http-nio-8080-exec-4] o.s.security.web.FilterChainProxy        : Securing POST /auth/postproduct
+2023-10-16T10:25:33.376+05:30 DEBUG 7100 --- [http-nio-8080-exec-4] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to anonymous SecurityContext
+2023-10-16T10:25:33.378+05:30 DEBUG 7100 --- [http-nio-8080-exec-4] o.s.security.web.FilterChainProxy        : Secured POST /auth/postproduct
+2023-10-16T11:41:45.574+05:30 DEBUG 7100 --- [http-nio-8080-exec-6] o.s.security.web.FilterChainProxy        : Securing OPTIONS /auth/login
+2023-10-16T11:41:45.723+05:30 DEBUG 7100 --- [http-nio-8080-exec-7] o.s.security.web.FilterChainProxy        : Securing POST /auth/login
+2023-10-16T11:41:45.733+05:30 DEBUG 7100 --- [http-nio-8080-exec-7] o.s.s.w.a.AnonymousAuthenticationFilter  : Set SecurityContextHolder to anonymous SecurityContext
+2023-10-16T11:41:45.750+05:30 DEBUG 7100 --- [http-nio-8080-exec-7] o.s.security.web.FilterChainProxy        : Secured POST /auth/login
+2023-10-16T11:41:46.221+05:30 DEBUG 7100 --- [http-nio-8080-exec-7] o.s.s.a.dao.DaoAuthenticationProvider    : Authenticated user

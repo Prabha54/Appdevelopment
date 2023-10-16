@@ -1,0 +1,60 @@
+/* Add your CSS styles to match the layout and design of your Dashboard component */
+
+/* Main container */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Page title */
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 28px;
+    color: #333;
+  }
+  
+  /* Header image */
+  .bigimg {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  /* Text container for the explanation */
+  .theory {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+  }
+  
+  /* Bold section headings */
+  .bold {
+    font-weight: bold;
+  }
+  
+  /* Main text content */
+  .main {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  /* Styling for the navigation bar and header if needed */
+  /* You can modify these styles to match your Navbar and Header components */
+  .navbar {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
